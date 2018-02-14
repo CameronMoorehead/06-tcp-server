@@ -1059,3 +1059,138 @@
 {"level":"info","message":"Processing data: @list\r\n","timestamp":"2017-12-05T06:43:11.409Z"}
 {"level":"info","message":"Processing data: ...\r\n","timestamp":"2017-12-05T06:43:15.858Z"}
 {"level":"info","message":"Removing cameron","timestamp":"2017-12-05T06:43:15.858Z"}
+{"level":"info","message":"Hello world!","timestamp":"2018-02-14T20:27:30.693Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2018-02-14T20:27:30.695Z"}
+{"level":"info","message":"Hello world!","timestamp":"2018-02-14T20:51:53.774Z"}
+{"level":"info","message":"Server is up on port 3000","timestamp":"2018-02-14T20:51:53.775Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:51:57.918Z"}
+{"level":"info","message":"Mohammed.Reilly22 has connected under id e5abe7e0-11c8-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:51:57.919Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:51:57.920Z"}
+{"level":"info","message":"Winifred.Gerlach has connected under id e5ac3600-11c8-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:51:57.920Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: localhost:3000\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: wp-settings-1=editor%3Dhtml%26posts_list_mode%3Dlist%26libraryContent%3Dbrowse%26post_dfw%3Doff; wp-settings-time-1=1508709852\r\n\r\n","timestamp":"2018-02-14T20:51:57.922Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:51:57.924Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:51:58.416Z"}
+{"level":"info","message":"Keyshawn_Kilback has connected under id e5f7e500-11c8-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:51:58.416Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: localhost:3000\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: wp-settings-1=editor%3Dhtml%26posts_list_mode%3Dlist%26libraryContent%3Dbrowse%26post_dfw%3Doff; wp-settings-time-1=1508709852\r\n\r\n","timestamp":"2018-02-14T20:51:58.419Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:51:58.420Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: localhost:3000\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: wp-settings-1=editor%3Dhtml%26posts_list_mode%3Dlist%26libraryContent%3Dbrowse%26post_dfw%3Doff; wp-settings-time-1=1508709852\r\n\r\n","timestamp":"2018-02-14T20:51:58.517Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:51:58.517Z"}
+{"level":"info","message":"Removing Keyshawn_Kilback","timestamp":"2018-02-14T20:51:58.518Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:52:03.531Z"}
+{"level":"info","message":"Candida.OReilly66 has connected under id e90461b0-11c8-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:52:03.531Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:52:03.532Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: localhost:3000\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: wp-settings-1=editor%3Dhtml%26posts_list_mode%3Dlist%26libraryContent%3Dbrowse%26post_dfw%3Doff; wp-settings-time-1=1508709852\r\n\r\n","timestamp":"2018-02-14T20:52:03.533Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:52:03.533Z"}
+{"level":"info","message":"Removing Candida.OReilly66","timestamp":"2018-02-14T20:52:03.533Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:52:13.125Z"}
+{"level":"info","message":"Jodie.Kerluke15 has connected under id eebc4f50-11c8-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:52:13.125Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:52:13.125Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:52:13.125Z"}
+{"level":"info","message":"Bradly_Abbott has connected under id eebc4f51-11c8-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:52:13.126Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:52:13.126Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: localhost:3000\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: wp-settings-1=editor%3Dhtml%26posts_list_mode%3Dlist%26libraryContent%3Dbrowse%26post_dfw%3Doff; wp-settings-time-1=1508709852\r\n\r\n","timestamp":"2018-02-14T20:52:13.127Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:52:13.127Z"}
+{"level":"info","message":"Removing Jodie.Kerluke15","timestamp":"2018-02-14T20:52:13.128Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: localhost:3000\r\nConnection: keep-alive\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: wp-settings-1=editor%3Dhtml%26posts_list_mode%3Dlist%26libraryContent%3Dbrowse%26post_dfw%3Doff; wp-settings-time-1=1508709852\r\n\r\n","timestamp":"2018-02-14T20:52:13.157Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:52:13.157Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:52:13.157Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:54:18.357Z"}
+{"level":"info","message":"Pattie.McLaughlin has connected under id 39613250-11c9-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:54:18.357Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:54:18.358Z"}
+{"level":"info","message":"Processing data: ����\u0006","timestamp":"2018-02-14T20:54:47.394Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:54:47.394Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:54:47.395Z"}
+{"level":"info","message":"Removing Pattie.McLaughlin","timestamp":"2018-02-14T20:54:56.922Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:55:14.047Z"}
+{"level":"info","message":"Solon74 has connected under id 5a92d0f0-11c9-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:55:14.047Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:55:14.048Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:55:14.048Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: b812b1c2.ngrok.io\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T20:55:14.049Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:55:14.049Z"}
+{"level":"info","message":"Removing Solon74","timestamp":"2018-02-14T20:55:14.104Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:55:14.263Z"}
+{"level":"info","message":"Cleve.Runolfsdottir has connected under id 5ab39f60-11c9-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:55:14.263Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:55:14.263Z"}
+{"level":"info","message":"Processing data: GET /favicon.ico HTTP/1.1\r\nHost: b812b1c2.ngrok.io\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://b812b1c2.ngrok.io/\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T20:55:14.263Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:55:14.263Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:55:14.264Z"}
+{"level":"info","message":"Removing Cleve.Runolfsdottir","timestamp":"2018-02-14T20:55:14.324Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:55:46.304Z"}
+{"level":"info","message":"Keely.Little74 has connected under id 6dccb0f0-11c9-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:55:46.304Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:55:46.304Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:55:46.304Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: b812b1c2.ngrok.io\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T20:55:46.304Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:55:46.305Z"}
+{"level":"info","message":"Removing Keely.Little74","timestamp":"2018-02-14T20:55:46.360Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:55:46.535Z"}
+{"level":"info","message":"Kelton_Schimmel has connected under id 6df01770-11c9-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:55:46.535Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:55:46.535Z"}
+{"level":"info","message":"Processing data: GET /favicon.ico HTTP/1.1\r\nHost: b812b1c2.ngrok.io\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://b812b1c2.ngrok.io/\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T20:55:46.536Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:55:46.536Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:55:46.536Z"}
+{"level":"info","message":"Removing Kelton_Schimmel","timestamp":"2018-02-14T20:55:46.591Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T20:59:09.622Z"}
+{"level":"info","message":"Brisa95 has connected under id e6fcb560-11c9-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T20:59:09.622Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T20:59:09.622Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T20:59:09.623Z"}
+{"level":"info","message":"Processing data: SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.4\r\n","timestamp":"2018-02-14T20:59:09.623Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T20:59:09.623Z"}
+{"level":"info","message":"Removing Brisa95","timestamp":"2018-02-14T21:00:20.752Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:00:25.418Z"}
+{"level":"info","message":"Dora_Auer99 has connected under id 142a42a0-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:00:25.419Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:00:25.419Z"}
+{"level":"info","message":"Processing data: SSH-2.0-OpenSSH_7.2p2 Ubuntu-4ubuntu2.4\r\n","timestamp":"2018-02-14T21:00:25.420Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:00:25.420Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:00:25.420Z"}
+{"level":"info","message":"Removing Dora_Auer99","timestamp":"2018-02-14T21:00:46.707Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:04:06.096Z"}
+{"level":"info","message":"Drake9 has connected under id 97b30d00-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:04:06.096Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:04:06.096Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:04:06.096Z"}
+{"level":"info","message":"Removing Drake9","timestamp":"2018-02-14T21:04:10.474Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:04:56.834Z"}
+{"level":"info","message":"Adrain.Prohaska has connected under id b5f10e20-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:04:56.834Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:04:56.834Z"}
+{"level":"info","message":"Removing Adrain.Prohaska","timestamp":"2018-02-14T21:04:57.903Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:05:43.983Z"}
+{"level":"info","message":"Kory79 has connected under id d20b6bf0-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:05:43.983Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:05:43.983Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:05:43.984Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: a2300869.ngrok.io\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T21:05:43.984Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:05:43.984Z"}
+{"level":"info","message":"Removing Kory79","timestamp":"2018-02-14T21:05:44.039Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:05:44.203Z"}
+{"level":"info","message":"Lou.Kunze93 has connected under id d22cd6a0-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:05:44.203Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:05:44.203Z"}
+{"level":"info","message":"Processing data: GET /favicon.ico HTTP/1.1\r\nHost: a2300869.ngrok.io\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://a2300869.ngrok.io/\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T21:05:44.203Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:05:44.204Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:05:44.204Z"}
+{"level":"info","message":"Removing Lou.Kunze93","timestamp":"2018-02-14T21:05:44.268Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:05:48.588Z"}
+{"level":"info","message":"Cale37 has connected under id d4ca16c0-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:05:48.589Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:05:48.589Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:05:48.589Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: a2300869.ngrok.io\r\nCache-Control: max-age=0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T21:05:48.590Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:05:48.590Z"}
+{"level":"info","message":"Removing Cale37","timestamp":"2018-02-14T21:05:48.694Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:05:48.805Z"}
+{"level":"info","message":"Flavie_Veum42 has connected under id d4eb3350-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:05:48.805Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:05:48.805Z"}
+{"level":"info","message":"Processing data: GET /favicon.ico HTTP/1.1\r\nHost: a2300869.ngrok.io\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://a2300869.ngrok.io/\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T21:05:48.806Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:05:48.806Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:05:48.806Z"}
+{"level":"info","message":"Removing Flavie_Veum42","timestamp":"2018-02-14T21:05:48.915Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:05:58.862Z"}
+{"level":"info","message":"Jammie86 has connected under id dae9c6e0-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:05:58.862Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:05:58.863Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:05:58.863Z"}
+{"level":"info","message":"Processing data: GET / HTTP/1.1\r\nHost: a2300869.ngrok.io\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T21:05:58.865Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:05:58.865Z"}
+{"level":"info","message":"Removing Jammie86","timestamp":"2018-02-14T21:05:58.918Z"}
+{"level":"info","message":"Net socket","timestamp":"2018-02-14T21:05:59.066Z"}
+{"level":"info","message":"Martina13 has connected under id db08e7a0-11ca-11e8-9731-0dbcac2d1b0c","timestamp":"2018-02-14T21:05:59.066Z"}
+{"level":"info","message":"Removing Mohammed.Reilly22","timestamp":"2018-02-14T21:05:59.066Z"}
+{"level":"info","message":"Processing data: GET /favicon.ico HTTP/1.1\r\nHost: a2300869.ngrok.io\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://a2300869.ngrok.io/\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nX-Forwarded-For: 209.210.157.165\r\n\r\n","timestamp":"2018-02-14T21:05:59.067Z"}
+{"level":"info","message":"Removing Winifred.Gerlach","timestamp":"2018-02-14T21:05:59.067Z"}
+{"level":"info","message":"Removing Bradly_Abbott","timestamp":"2018-02-14T21:05:59.067Z"}
+{"level":"info","message":"Removing Martina13","timestamp":"2018-02-14T21:05:59.122Z"}
